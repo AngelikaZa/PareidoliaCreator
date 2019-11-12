@@ -7,6 +7,10 @@ These arere combined to a map for each image, which is then converted to graysca
 Each map is sharpened and eroded with a 9x9 kernel. 
 Finally, a binary and otsy threshold is applied. 
 
+Stimulus creation process:
+
+![Stimulus creation process](https://github.com/AngelikaZa/PareidoliaCreator/blob/master/Pareidolia%20creation%20process.jpg)
+
 Thresholded binarised images of faces can be superimposed to stimuli to recreate the Noise pareidolia test by Yoshiyuki Nishio (original paper: https://www.ncbi.nlm.nih.gov/pubmed/22649179)
 
 Original pareidolia test can be found here: 
