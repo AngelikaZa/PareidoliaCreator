@@ -11,5 +11,3 @@ Thresholded binarised images of faces can be superimposed to stimuli to recreate
 
 Original pareidolia test can be found here: 
 https://figshare.com/articles/The_noise_pareidolia_test/3187669
-
-![Alt text]"C:\Users\Angelika\Dropbox\PhD\EXPERIMENTS\01_PriorsAmbiguousStimul\STIMULI\Pareidolia creation process.jpg"
